@@ -2,9 +2,9 @@
 
 * I'm very professional.
  
-** I met another professional.
+> * I met another professional.
 
-**> We're two peas in a pod.
+> We're two peas in a pod.
 
 ### More info to come soon.
 
